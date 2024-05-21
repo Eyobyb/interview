@@ -147,7 +147,7 @@ app.put("/like-track-of-the-week/:id", (req, res) => {
   });
 });
 
-const port = 3003;
+const port = 8000;
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
