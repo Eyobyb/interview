@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Chill Mix",
+    "collection_moto": "Just relax and listen",
+    "num_of_tracks": "39",
+    "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+    "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/d639b0e6-9570-426a-ac08-2ecf734c4d18.png?alt=media&token=1c65f987-efab-47c5-94c7-0c65a9a1fce0",
+    "format": "mp3",
+    "listened": "311",
+    "liked": false
+  },
+  {
+    "id": "2",
+    "title": "Gamer Mix",
+    "collection_moto": "listen while you play",
+    "num_of_tracks": "39",
+    "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+    "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/86e835ae-3c67-4cd6-a131-7e0ee14950f0.png?alt=media&token=bf835ba3-e9f2-4c96-9e42-7cbc16e56815",
+    "format": "mp3",
+    "listened": "311",
+    "liked": false
+  },
+  {
+    "id": "3",
+    "title": "Future Mix",
+    "collection_moto": "Of your favorites",
+    "num_of_tracks": "26",
+    "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+    "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/e9cfdbac-7c9e-4ed6-b752-9b633272a2b7.png?alt=media&token=00b0ee42-8f74-4496-bbef-3b9c192eeebd",
+    "format": "mp3",
+    "listened": "3,121",
+    "liked": false
+  },
+  {
+    "id": "4",
+    "title": "Setting Up Our Beds In Minecraft",
+    "album": "Sleepy Fish",
+    "num_of_tracks": "47",
+    "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+    "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/e64332cd-d835-4fdf-8bfa-791313a13e82.png?alt=media&token=fe79fecf-af27-4d8e-bd99-2a9df3670926",
+    "format": "mp3",
+    "listened": "311",
+    "liked": false
+  },
+  {
+    "id": "5",
+    "title": "That Feelin",
+    "album": "S3RL, Kayliana",
+    "num_of_tracks": "7",
+    "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+    "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/031959c4-1693-4bd0-981a-461029ef768a.png?alt=media&token=b040b242-09a8-407b-a490-7e941bc1596e",
+    "format": "mp3",
+    "listened": "31",
+    "liked": false
+  }
+]
