@@ -1,1 +1,51 @@
-[{"id":"1","title":"Chill Mix","collection_moto":"Just relax and listen","num_of_tracks":"39","track_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb","poster_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/04e3fc57-bf29-4df7-867d-72668d0cd1cb.png?alt=media&token=549b22ba-d4a7-4dbf-984e-fcb1b4da2e7a","format":"mp3","listened":"311","liked":false},{"id":"2","title":"Gamer Mix","collection_moto":"listen while you play","num_of_tracks":"39","track_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb","poster_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/897bc62b-d63b-4dd3-b4ac-da7667db6d9a.png?alt=media&token=d8719a96-726d-4ccd-96c3-103d214825ff","format":"mp3","listened":"311","liked":false},{"id":"3","title":"Future Mix","collection_moto":"Of your favorites","num_of_tracks":"26","track_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb","poster_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/e64332cd-d835-4fdf-8bfa-791313a13e82.png?alt=media&token=fe79fecf-af27-4d8e-bd99-2a9df3670926","format":"mp3","listened":"3,121","liked":false},{"id":"4","title":"Classical Mix","collection_moto":"Just relax and listen","num_of_tracks":"39","track_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb","poster_url":"https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/36e45ab8-b5bc-438d-a27e-3cbc7ac883d3.png?alt=media&token=0a1ecaeb-d7f2-4367-a40b-a5ed6b314a45","format":"mp3","listened":"321","liked":false}]
+[
+    {
+      "id": "1",
+      "title": "Chill Mix",
+      "collection_moto": "Just relax and listen",
+      "album": "The Best of Django Reinhardt",
+      "num_of_tracks": "39",
+      "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+      "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/04e3fc57-bf29-4df7-867d-72668d0cd1cb.png?alt=media&token=549b22ba-d4a7-4dbf-984e-fcb1b4da2e7a",
+      "format": "mp3",
+      "listened": "311",
+      "liked": false
+    },
+    {
+      "id": "2",
+      "title": "Gamer Mix",
+      "album":"childhood memories",
+      "collection_moto": "listen while you play",
+      "num_of_tracks": "39",
+      "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+      "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/897bc62b-d63b-4dd3-b4ac-da7667db6d9a.png?alt=media&token=d8719a96-726d-4ccd-96c3-103d214825ff",
+      "format": "mp3",
+      "listened": "311",
+      "liked": false
+    },
+    {
+      "id": "3",
+      "title": "Future Mix",
+      "album":"new sounds",
+      "collection_moto": "Of your favorites",
+      "num_of_tracks": "26",
+      "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+      "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/e64332cd-d835-4fdf-8bfa-791313a13e82.png?alt=media&token=fe79fecf-af27-4d8e-bd99-2a9df3670926",
+      "format": "mp3",
+      "listened": "3,121",
+      "liked": false
+    },
+    {
+      "id": "4",
+      "title": "Classical Mix",
+      "album":"future sounds",
+      "collection_moto": "Just relax and listen",
+      "num_of_tracks": "39",
+      "track_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/django%20reinhardt%20-%20brazil.mp3?alt=media&token=95e200c1-7fba-4430-aaa6-1e342e73eefb",
+      "poster_url": "https://firebasestorage.googleapis.com/v0/b/jenboro-ae6a5.appspot.com/o/36e45ab8-b5bc-438d-a27e-3cbc7ac883d3.png?alt=media&token=0a1ecaeb-d7f2-4367-a40b-a5ed6b314a45",
+      "format": "mp3",
+      "listened": "321",
+      "liked": false
+    }
+  ]
+  
